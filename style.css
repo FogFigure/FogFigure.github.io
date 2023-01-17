@@ -2,3 +2,7 @@ body{
     background-color: black;
     color: green;
 }
+main{
+    margin: 2vh 2vw;
+    background-color: rgba(90,90,90,0.5);
+}
